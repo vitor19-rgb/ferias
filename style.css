@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #9BEC00;
+    
+
+}
+li{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #A7E6FF;
+}
+#zeca{
+    border: solid #219C90 4px;
+    background-color: aliceblue;
+}
+body{
+background-image: url(https://static.ndmais.com.br/2023/12/praia-tropical-com-areia-branca-scaled.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+
+
+}
+.roblox{
+    height: 300px;
+    width: 600px;
+    margin-left: 630px;
+}
+div{
+    border:solid #4B70F5 4px;
+}
